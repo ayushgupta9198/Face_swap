@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ef9885d791435983a09f5831392495b0e2adefca411fbe7f2fe4d4e26f22d6ea
-size 11
+Just unxip the folder and run the code accordingly.
+
+you need to add two folder of images as to do face swap.
+
+Just pass the folder accordingly and run the code it will geneate the results accoring to the number given for generation.
+
+For best results , would suggest to pass the number as 5.
+
+As a installation you can find the requirements.txt file 
